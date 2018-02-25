@@ -1,4 +1,4 @@
-# palimdrome
+# palindrome
 
 The code in this repository is to run and test getPalindromes package. It is built with sbt.
 
