@@ -25,4 +25,4 @@ II,36,2
 GG,46,2  
 OO,48,2  
 Please type a string to look for palindromes:  
-<ctrl-c>
+<ctrl-c>  
