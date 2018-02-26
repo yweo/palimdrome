@@ -5,8 +5,8 @@ The code in this repository is to run and test getPalindromes package. It is bui
 To run:
 sbt run  
 Please type a string to look for palindromes:  
-<type in or paste the string, it will display palindromes found in the string)  
-<ctrl-c to exit>  
+(type in or paste the string, it will display palindromes found in the string)  
+ctrl-c to exit   
 
 for example:  
 sbt run  
@@ -25,4 +25,4 @@ II,36,2
 GG,46,2  
 OO,48,2  
 Please type a string to look for palindromes:  
-<ctrl-c>  
+ctrl-c    
